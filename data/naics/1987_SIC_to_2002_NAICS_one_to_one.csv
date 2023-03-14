@@ -1,0 +1,1009 @@
+SIC,SIC Title (and note),2002 NAICS,2002 NAICS Title
+0111,Wheat,111140,Wheat Farming
+0112,Rice ,111160,Rice Farming
+0115,Corn,111150,Corn Farming
+0116,Soybeans,111110,Soybean Farming 
+0119,"Cash Grains, NEC (oilseed farming, except soybeans)",111***,Multiple
+0131,Cotton,111920,Cotton Farming
+0132,Tobacco,111910,Tobacco Farming
+0133,Sugarcane and Sugar Beets (sugarcane farms),111***,Multiple
+0134,Irish Potatoes,111211,Potato Farming
+0139,"Field Crops, Except Cash Grains, NEC (broom corn farming)",111***,Multiple
+0161,Vegetables and Melons,111219,Other Vegetable (except Potato) and Melon Farming
+0171,Berry Crops (strawberry farms),11133*,Multiple
+0172,Grapes,111332,Grape Vineyards
+0173,Tree Nuts,111335,Tree Nut Farming
+0174,Citrus Fruits (orange groves and farms),1113**,Multiple
+0175,Deciduous Tree Fruits (apple orchards and farms),11133*,Multiple
+0179,"Fruits and Tree Nuts, NEC (combination farms)",111***,Multiple
+0181,Ornamental Floriculture and Nursery Products (nursery farming),1114**,Multiple
+0182,Food Crops Grown Under Cover (growing mushrooms),111***,Multiple
+0191,"General Farms, Primarily Crop",111998,All Other Miscellaneous Crop Farming
+0211,Beef Cattle Feedlots,112112,Cattle Feedlots
+0212,"Beef Cattle, Except Feedlots",112111,Beef Cattle Ranching and Farming
+0213,Hogs,112210,Hog and Pig Farming
+0214,Sheep and Goats (sheep farms),112***,Multiple
+0219,"General Livestock, Except Dairy and Poultry",112990,All Other Animal Production
+0241,Dairy Farms (dairy heifer replacement farms),112***,Multiple
+0251,"Broiler, Fryer, and Roaster Chickens",112320,Broilers and Other Meat Type Chicken Production
+0252,Chicken Eggs,112310,Chicken Egg Production
+0253,Turkeys and Turkey Eggs,112330,Turkey Production
+0254,Poultry Hatcheries,112340,Poultry Hatcheries
+0259,"Poultry and Eggs, NEC",112390,Other Poultry Production
+0271,Fur-Bearing Animals and Rabbits,112930,Fur-Bearing Animal and Rabbit Production
+0272,Horses and Other Equines,112920,Horse and Other Equine Production
+0273,Animal Aquaculture (finfish farms),11251*,Multiple
+0279,"Animal Specialties, NEC (frog and alligator farms)",1129**,Multiple
+0291,"General Farms, Primarily Livestock and Animal Specialties",112990,All Other Animal Production
+0711,Soil Preparation Services,115112,"Soil Preparation, Planting, and Cultivating"
+0721,"Crop Planting, Cultivating, and Protecting",115112,"Soil Preparation, Planting, and Cultivating"
+0722,"Crop Harvesting, Primarily by Machine",115113,"Crop Harvesting, Primarily by Machine"
+0723,"Crop Preparation Services for Market, Except Cotton Ginning (except custom grain grinding)",******,Multiple
+0724,Cotton Ginning,115111,Cotton Ginning
+0741,Veterinary Services for Livestock,541940,Veterinary Services
+0742,Veterinary Services for Animal Specialties,541940,Veterinary Services
+0751,"Livestock Services, Except Veterinary (except custom slaughtering)",******,Multiple
+0752,"Animal Specialty Services, Except Veterinary (boarding and training horses (except race horses), animal semen banks, and artificial insemination services for pets)",******,Multiple
+0761,Farm Labor Contractors and Crew Leaders,115115,Farm Labor Contractors and Crew Leaders
+0762,Farm Management Services,115116,Farm Management Services
+0781,Landscape Counseling and Planning (except horticultural consulting),5*****,Multiple
+0782,Lawn and Garden Services,561730,Landscaping Services
+0783,Ornamental Shrub and Tree Services,561730,Landscaping Services
+0811,Timber Tracts (short rotation woody crops),11****,Multiple
+0831,Forest Nurseries and Gathering of Forest Products (gathering maple sap),11****,Multiple
+0851,Forestry Services,115310,Support Activities for Forestry
+0912,Finfish,114111,Finfish Fishing
+0913,Shellfish,114112,Shellfish Fishing
+0919,Miscellaneous Marine Products (plant aquaculture),11****,Multiple
+0921,Fish Hatcheries and Preserves (finfish hatcheries),11****,Multiple
+0971,"Hunting and Trapping, and Game Propagation",114210,Hunting and Trapping
+1011,Iron Ores,212210,Iron Ore Mining
+1021,Copper Ores,212234,Copper Ore and Nickel Ore Mining
+1031,Lead and Zinc Ores,212231,Lead Ore and Zinc Ore Mining
+1041,Gold Ores,212221,Gold Ore Mining
+1044,Silver Ores,212222,Silver Ore Mining
+1061,"Ferroalloy Ores, Except Vanadium (nickel)",21****,Multiple
+1081,Metal Mining Services (except site preparation and related activities performed on a contract or fee basis and geophysical surveying and mapping),******,Multiple
+1094,Uranium-Radium-Vanadium Ores,212291,Uranium-Radium-Vanadium Ore Mining
+1099,"Miscellaneous Metal Ores, NEC",212299,All Other Metal Ore Mining
+1221,Bituminous Coal and Lignite Surface Mining,212111,Bituminous Coal and Lignite Surface Mining
+1222,Bituminous Coal Underground Mining,212112,Bituminous Coal Underground Mining
+1231,Anthracite Mining,212113,Anthracite Mining
+1241,Coal Mining Services (except site preparation and related construction activities on a contract basis),2*****,Multiple
+1311,Crude Petroleum and Natural Gas,211111,Crude Petroleum and Natural Gas Extraction
+1321,Natural Gas Liquids,211112,Natural Gas Liquid Extraction
+1381,Drilling Oil and Gas Wells,213111,Drilling Oil and Gas Wells
+1382,Oil and Gas Field Exploration Services (except geophysical mapping and surveying),******,Multiple
+1389,"Oil and Gas Field Services, NEC (except construction of field gathering lines, site preparation and related construction activities performed on a contract or fee basis)",2*****,Multiple
+1411,Dimension Stone,212311,Dimension Stone Mining and Quarrying
+1422,Crushed and Broken Limestone,212312,Crushed and Broken Limestone Mining and Quarrying
+1423,Crushed and Broken Granite,212313,Crushed and Broken Granite Mining and Quarrying
+1429,"Crushed and Broken Stone, NEC",212319,Other Crushed and Broken Stone Mining and Quarrying
+1442,Construction Sand and Gravel,212321,Construction Sand and Gravel Mining
+1446,Industrial Sand,212322,Industrial Sand Mining
+1455,Kaolin and Ball Clay,212324,Kaolin and Ball Clay Mining
+1459,"Clay, Ceramic, and Refractory Minerals, NEC",212325,Clay and Ceramic and Refractory Minerals Mining
+1474,"Potash, Soda, and Borate Minerals",212391,"Potash, Soda, and Borate Mineral Mining"
+1475,Phosphate Rock,212392,Phosphate Rock Mining
+1479,"Chemical and Fertilizer Mineral Mining, NEC",212393,Other Chemical and Fertilizer Mineral Mining
+1481,"Nonmetallic Minerals Services, Except Fuels (except geophysical surveying and mapping and site preparation and related construction activities performed on a contract or fee basis)",******,Multiple
+1499,"Miscellaneous Nonmetallic Minerals, Except Fuels (bituminous limestone and bituminous sandstone)",2*****,Multiple
+1521,General Contractors--Single Family Houses (except remodeling contractors),23611*,Multiple
+1522,"General Contractors - Residential Buildings Other Than Single-Family (except remodeling contractors, hotel and motel construction contractors, and dormitory and barrack construction contractors)",236***,Multiple
+1531,Operative Builders (residential operative builders),236***,Multiple
+1541,"General Contractors Industrial Buildings and Warehouses ( except grain elevators; drycleaning plants; and manufacturing, public, and industrial warehouses)",236220,Multiple
+1542,"General Contractors - Nonresidential Buildings, Other than Industrial Buildings and Warehouses",236220,Commercial and Institutional Building Construction
+1611,"Highway and Street Construction, Except Elevated Highways",237310,"Highway, Street, and Bridge Construction"
+1622,"Bridge, Tunnel, and Elevated Highway Construction (bridge and elevated highway construction) ",237***,Multiple
+1623,"Water, Sewer, Pipeline, and Communications and Power Line Construction (water and sewer pipelines and related construction)",23****,Multiple
+1629,"Heavy Construction, NEC (Industrial nonbuilding structures [except petrochemical plants and petroleum refineries])",23****,Multiple
+1711,"Plumbing, Heating, and Air-Conditioning (environmental control installation contractors)",23****,Multiple
+1721,Painting and Paper Hanging (traffic lane painting),238***,Multiple
+1731,Electrical Work (electrical work except burglar and fire alarm installation),238210,Electrical Contractors
+1741,"Masonry, Stone Setting, and Other Stone Work",238140,Masonry Contractors
+1742,"Plastering, Drywall, Acoustical, and Insulation Work",238310,Drywall and Insulation Contractors
+1743,"Terrazzo, Tile, Marble, and Mosaic Work (fresco work)",238***,Multiple
+1751,Carpentry Work (framing carpentry),2383**,Multiple
+1752,"Floor Laying and Other Floor Work, NEC ",238330,Flooring Contractors
+1761,"Roofing, Siding, and Sheet Metal Work (roofing contractors)",238***,Multiple
+1771,"Concrete Work (concrete work except stucco work and asphalt, brick, and paving)",23****,Multiple
+1781,Water Well Drilling,237110,Water and Sewer Line and Related Structures Construction
+1791,Structural Steel Erection (structural steel work),238***,Multiple
+1793,Glass and Glazing Work,238150,Glass and Glazing Contractors
+1794,Excavation Work,238910,Site Preparation Contractors
+1795,Wrecking and Demolition Work,238910,Site Preparation Contractors
+1796,"Installation or Erection of Building Equipment, NEC (scrubber, dust collection, and other industrial ventilation installation)",23****,Multiple
+1799,"Special Trade Contractors, NEC (indoor swimming pool construction contractors)",******,Multiple
+2011,Meat Packing Plants,311611,Animal (except Poultry) Slaughtering
+2013,Sausages and Other Prepared Meat Products (except lard made from purchased materials),31161*,Multiple
+2015,Poultry Slaughtering and Processing (poultry slaughtering and processing),311***,Multiple
+2021,Creamery Butter,311512,Creamery Butter Manufacturing
+2022,"Natural, Processed, and Imitation Cheese",311513,Cheese Manufacturing
+2023,"Dry, Condensed and Evaporated Dairy Products (liquid non-dairy creamer)",3115**,Multiple
+2024,Ice Cream and Frozen Desserts,311520,Ice Cream and Frozen Dessert Manufacturing
+2026,Fluid Milk (except ultra-high temperature),311***,Multiple
+2032,Canned Specialties (except canned puddings),311***,Multiple
+2033,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",311421,Fruit and Vegetable Canning
+2034,"Dried and Dehydrated Fruits, Vegetables and Soup Mixes (vegetable flour)",311***,Multiple
+2035,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings (pickled fruits and vegetables)",311***,Multiple
+2037,"Frozen Fruits, Fruit Juices, and Vegetables",311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+2038,"Frozen Specialties, NEC",311412,Frozen Specialty Food Manufacturing
+2041,Flour and Other Grain Mill Products,311211,Flour Milling
+2043,Cereal Breakfast Foods (cereal breakfast foods and related preparations except grain based coffee substitutes),311***,Multiple
+2044,Rice Milling,311212,Rice Milling
+2045,Prepared Flour Mixes and Doughs,311822,Flour Mixes and Dough Manufacturing from Purchased Flour
+2046,Wet Corn Milling (except refining purchased corn oil),311***,Multiple
+2047,Dog and Cat Food,311111,Dog and Cat Food Manufacturing
+2048,"Prepared Feeds and Feed Ingredients for Animals and Fowls, Except Dogs and Cats (except slaughtering animals for pet food)",311***,Multiple
+2051,"Bread and Other Bakery Products, Except Cookies and Crackers",311812,Commercial Bakeries
+2052,Cookies and Crackers (unleavened bread and soft pretzels),311***,Multiple
+2053,"Frozen Bakery Products, Except Bread",311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+2061,"Cane Sugar, Except Refining",311311,Sugarcane Mills
+2062,Cane Sugar Refining,311312,Cane Sugar Refining
+2063,Beet Sugar,311313,Beet Sugar Manufacturing
+2064,Candy and Other Confectionery Products (chocolate confectionery),3113**,Multiple
+2066,"Chocolate and Cocoa Products (except chocolate products, made from purchased chocolate)",3113**,Multiple
+2067,Chewing Gum,311340,Nonchocolate Confectionery Manufacturing
+2068,Salted and Roasted Nuts and Seeds,311911,Roasted Nuts and Peanut Butter Manufacturing
+2074,Cottonseed Oil Mills (cottonseed processing),31122*,Multiple
+2075,"Soybean Oil Mills (soybean processing, except edible soybean oil)",31122*,Multiple
+2076,"Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean (oilseed processing)",311***,Multiple
+2077,Animal and Marine Fats and Oils (animal fats and oils),311***,Multiple
+2079,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, NEC (processing soybean oil into edible cooking oils from soybeans crushed in the same establishment)",311***,Multiple
+2082,Malt Beverages (malt extract),31****,Multiple
+2083,Malt,311213,Malt Manufacturing
+2084,"Wines, Brandy, and Brandy Spirits",312130,Wineries
+2085,Distilled and Blended Liquors (apple jack),3121**,Multiple
+2086,Bottled and Canned Soft Drinks and Carbonated Water (except bottled water),31****,Multiple
+2087,"Flavoring Extracts and Flavoring Syrups, NEC (coffee flavoring and syrups)",311***,Multiple
+2091,Canned and Cured Fish and Seafoods,311711,Seafood Canning
+2092,Prepared Fresh or Frozen Fish and Seafoods,311712,Fresh and Frozen Seafood Processing
+2095,Roasted Coffee,311920,Coffee and Tea Manufacturing
+2096,"Potato Chips, Corn Chips, and Similar Snacks",311919,Other Snack Food Manufacturing
+2097,Manufactured Ice,312113,Ice Manufacturing
+2098,"Macaroni, Spaghetti, Vermicelli and Noodles",311823,Dry Pasta Manufacturing 
+2099,"Food Preparations, NEC (reducing maple sap to maple syrup)",31****,Multiple
+2111,Cigarettes,312221,Cigarette Manufacturing
+2121,Cigars,312229,Other Tobacco Product Manufacturing
+2131,Chewing and Smoking Tobacco and Snuff,312229,Other Tobacco Product Manufacturing
+2141,Tobacco Stemming and Redrying (stemming and redrying tobacco),31****,Multiple
+2211,"Broadwoven Fabric Mills, Cotton",313210,Broadwoven Fabric Mills
+2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk",313210,Broadwoven Fabric Mills
+2231,"Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing) (except finishing wool fabric without weaving wool fabric)",313***,Multiple
+2241,"Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk and Manmade Fiber",313221,Narrow Fabric Mills
+2251,"Women’s Full-Length and Knee-Length Hosiery, Except Socks (dyeing and finishing sheer hosiery without knitting sheer hosiery)",31****,Multiple
+2252,"Hosiery, NEC (dyeing and finishing hosiery , except sheer, without knitting hosiery)",31****,Multiple
+2253,Knit Outerwear Mills (dyeing and finishing knit outerwear without knitting outerwear),31****,Multiple
+2254,Knit Underwear and Nightwear Mills (dyeing and finishing underwear and nightwear without knitting garments),31****,Multiple
+2257,Weft Knit Fabric Mills (except finishing without knitting weft fabric),313***,Multiple
+2258,Lace and Warp Knit Fabric Mills (except finishing lace or warp fabric without knitting lace or warp fabric),313***,Multiple
+2259,"Knitting Mills, NEC (knitting weft fabric and fabricating textile products, such as bedspreads, curtains, or towels)",31****,Multiple
+2261,Finishers of Broadwoven Fabrics of Cotton,313311,Broadwoven Fabric Finishing Mills
+2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,313311,Broadwoven Fabric Finishing Mills
+2269,"Finishers of Textiles, NEC (linen fabric finishing)",31****,Multiple
+2273,Carpets and Rugs,314110,Carpet and Rug Mills
+2281,Yarn Spinning Mills,313111,Yarn Spinning Mills
+2282,"Yarn Texturizing, Throwing, Twisting and Winding Mills ",313112,"Yarn Texturing, Throwing, and Twisting Mills"
+2284,Thread Mills (except finishing thread without manufacturing thread),3133**,Multiple
+2295,"Coated Fabrics, Not Rubberized",313320,Fabric Coating Mills
+2296,Tire Cord and Fabrics,314992,Tire Cord and Tire Fabric Mills
+2297,Nonwoven Fabrics,313230,Nonwoven Fabric Mills
+2298,Cordage and Twine (hemp rope made in spinning mills),31****,Multiple
+2299,"Textile Goods, NEC (hemp bags made in spinning mills)",31****,Multiple
+2311,"Men’s and Boys’ Suits, Coats, and Overcoats (contractors)",3152**,Multiple
+2321,"Men’s and Boys’ Shirts, Except Work Shirts (contractors)",3152**,Multiple
+2322,Men’s and Boys’ Underwear and Nightwear (contractors),3152**,Multiple
+2323,Men's and Boys' Neckwear (contractors),315***,Multiple
+2325,Men’s and Boys’ Separate Trousers and Slacks (contractors),3152**,Multiple
+2326,Men’s and Boys’ Work Clothing (contractors),3152**,Multiple
+2329,"Men’s and Boys’ Clothing, NEC (contractors)",3152**,Multiple
+2331,"Women’s, Misses’, and Juniors’ Blouses and Shirts (contractors)",3152**,Multiple
+2335,"Women’s, Misses’, and Juniors’ Dresses (contractors)",3152**,Multiple
+2337,"Women’s, Misses’, and Juniors’ Suits, Skirts, and Coats (contractors)",3152**,Multiple
+2339,"Women’s, Misses’, and Juniors’ Outerwear, NEC (contractors)",315***,Multiple
+2341,"Women’s, Misses’, Children’s, and Infants’ Underwear and Nightwear (boys’ contractors)",3152**,Multiple
+2342,"Brassieres, Girdles, and Allied Garments (contractors)",3152**,Multiple
+2353,"Hats, Caps, and Millinery (men's and boys' contractors)",315***,Multiple
+2361,"Girls’, Children’s, and Infants’ Dresses, Blouses, and Shirts (boys’ contractors)",3152**,Multiple
+2369,"Girls’, Children’s, and Infants’ Outerwear, NEC (boys’ contractors)",3152**,Multiple
+2371,Fur Goods (men's and boys' contractors),3152**,Multiple
+2381,"Dress and Work Gloves, Except Knit and All-Leather (men's and boys' contractors)",315***,Multiple
+2384,Robes and Dressing Gowns (men’s and boys’ contractors),3152**,Multiple
+2385,Waterproof Outerwear (men’s and boys' contractors),315***,Multiple
+2386,Leather and Sheep-Lined Clothing (men's and boys' contractors),3152**,Multiple
+2387,Apparel Belts (men's and boys' contractors),315***,Multiple
+2389,"Apparel and Accessories, NEC (men's and boys' contractors)",31****,Multiple
+2391,Curtains and Draperies,314121,Curtain and Drapery Mills
+2392,"Housefurnishings, Except Curtains and Draperies (except mops, dust rags, and bags)",3*****,Multiple
+2393,Textile Bags,314911,Textile Bag Mills
+2394,Canvas and Related Products,314912,Canvas and Related Product Mills
+2395,"Pleating, Decorative and Novelty Stitching, and Tucking for the Trade (except apparel contractors)",31****,Multiple
+2396,"Automotive Trimmings, Apparel Findings, and Related Products (textile products except automotive and apparel trimmings and findings, printing or embossing on apparel, and contractors)",3*****,Multiple
+2397,Schiffli Machine Embroideries,313222,Schiffli Machine Embroidery
+2399,"Fabricated Textile Products, NEC (except apparel and accessories, automotive seat belts, seat and tire covers, and contractors)",******,Multiple
+2411,Logging,113310,Logging
+2421,"Sawmills and Planing Mills, General (sawmills)",321***,Multiple
+2426,Hardwood Dimension and Flooring Mills (hardwood dimension lumber made from logs or bolts),3*****,Multiple
+2429,"Special Product Sawmills, NEC (shingle mills, shakes)",3219**,Multiple
+2431,Millwork (wood windows and doors),3*****,Multiple
+2434,Wood Kitchen Cabinets,337110,Wood Kitchen Cabinet and Countertop Manufacturing
+2435,Hardwood Veneer and Plywood,321211,Hardwood Veneer and Plywood Manufacturing
+2436,Softwood Veneer and Plywood,321212,Softwood Veneer and Plywood Manufacturing
+2439,"Structural Wood Members, NEC (except trusses)",321***,Multiple
+2441,Nailed and Lock Corner Wood Boxes and Shook,321920,Wood Container and Pallet Manufacturing
+2448,Wood Pallets and Skids,321920,Wood Container and Pallet Manufacturing
+2449,"Wood Containers, NEC",321920,Wood Container and Pallet Manufacturing
+2451,Mobile Homes,321991,Manufactured Home (Mobile Home) Manufacturing
+2452,Prefabricated Wood Buildings and Components,321992,Prefabricated Wood Building Manufacturing
+2491,Wood Preserving,321114,Wood Preservation
+2493,Reconstituted Wood Products,321219,Reconstituted Wood Product Manufacturing
+2499,"Wood Products, NEC (wood containers, such as noncoopered vats and reed or straw baskets)",3*****,Multiple
+2511,"Wood Household Furniture, Except Upholstered (except wood box spring frames)",337***,Multiple
+2512,"Wood Household Furniture, Upholstered",337121,Upholstered Household Furniture Manufacturing
+2514,Metal Household Furniture (upholstered),337***,Multiple
+2515,"Mattresses, Foundations, and Convertible Beds (convertible beds)",337***,Multiple
+2517,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",337129,"Wood Television, Radio, and Sewing Machine Cabinet Manufacturing"
+2519,"Household Furniture, NEC",337125,Household Furniture (except Wood and Metal) Manufacturing
+2521,Wood Office Furniture,337211,Wood Office Furniture Manufacturing 
+2522,"Office Furniture, Except Wood",337214,Office Furniture (except Wood) Manufacturing
+2531,Public Building and Related Furniture (seats for motor vehicles),33****,Multiple
+2541,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers (counter tops)",337***,Multiple
+2542,"Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood (lunchroom tables and chairs)",337***,Multiple
+2591,Drapery Hardware and Window Blinds and Shades,337920,Blind and Shade Manufacturing
+2599,"Furniture and Fixtures, NEC (except hospital beds)",3*****,Multiple
+2611,Pulp Mills (pulp producing mills only),3221**,Multiple
+2621,Paper Mills (except newsprint mills),3221**,Multiple
+2631,Paperboard Mills,322130,Paperboard Mills
+2652,Setup Paperboard Boxes,322213,Setup Paperboard Box Manufacturing
+2653,Corrugated and Solid Fiber Boxes,322211,Corrugated and Solid Fiber Box Manufacturing
+2655,"Fiber Cans, Tubes, Drums, and Similar Products",322214,"Fiber Can, Tube, Drum, and Similar Products Manufacturing"
+2656,"Sanitary Food Containers, Except Folding",322215,Nonfolding Sanitary Food Container Manufacturing
+2657,"Folding Paperboard Boxes, Including Sanitary (except paperboard backs for blister or skin packages)",322212,Folding Paperboard Box Manufacturing
+2671,"Packaging Paper and Plastics Film, Coated and Laminated (except single-web and multi-web plastics packaging film and sheet)",32****,Multiple
+2672,"Coated and Laminated Paper, NEC",322222,Coated and Laminated Paper Manufacturing
+2673,"Plastics, Foil, and Coated Paper Bags (except single web or multi-web plastic bags)",32****,Multiple
+2674,Uncoated Paper and Multiwall Bags,322224,Uncoated Paper and Multiwall Bag Manufacturing
+2675,"Die-Cut Paper and Paperboard and Cardboard (pasted, lined, laminated, or surface-coated paperboard)",3222**,Multiple
+2676,Sanitary Paper Products,322291,Sanitary Paper Product Manufacturing
+2677,Envelopes,322232,Envelope Manufacturing
+2678,"Stationery, Tablets, and Related Products",322233,"Stationery, Tablet, and Related Product Manufacturing"
+2679,"Converted Paper and Paperboard Products, NEC (corrugated paper)",******,Multiple
+2711,"Newspapers: Publishing, or Publishing and Printing (except Internet newspaper publishing)",51****,Multiple
+2721,"Periodicals: Publishing, or Publishing and Printing (except Internet periodical publishing)",51****,Multiple
+2731,"Books: Publishing, or Publishing and Printing (except music books and Internet book publishing)",******,Multiple
+2732,Book Printing,323117,Book Printing
+2741,Miscellaneous Publishing (shopping news and advertising periodical publishing or publishing and printing except Internet),******,Multiple
+2752,"Commercial Printing, Lithographic (except quick printing)",32311*,Multiple
+2754,"Commercial Printing, Gravure",323111,Commercial Gravure Printing
+2759,"Commercial Printing, NEC (flexographic printing)",32311*,Multiple
+2761,Manifold Business Forms,323116,Manifold Business Form Printing
+2771,Greeting Cards (lithographic printing of greeting cards),******,Multiple
+2782,"Blankbooks, Looseleaf Binders and Devices (checkbooks)",3231**,Multiple
+2789,Bookbinding and Related Work,323121,Tradebinding and Related Work
+2791,Typesetting,323122,Prepress Services
+2796,Platemaking and Related Services,323122,Prepress Services
+2812,Alkalies and Chlorine,325181,Alkalies and Chlorine Manufacturing
+2813,Industrial Gases,325120,Industrial Gas Manufacturing
+2816,Inorganic Pigments (except bone and lamp black),******,Multiple
+2819,"Industrial Inorganic Chemicals, NEC (recovering sulfur from natural gas)",3*****,Multiple
+2821,"Plastics Materials, Synthetic and Resins, and Nonvulcanizable Elastomers",325211,Plastics Material and Resin Manufacturing
+2822,Synthetic Rubber,325212,Synthetic Rubber Manufacturing
+2823,Cellulosic Manmade Fibers,325221,Cellulosic Organic Fiber Manufacturing
+2824,"Manmade Organic Fibers, Except Cellulosic",325222,Noncellulosic Organic Fiber Manufacturing
+2833,Medicinal Chemicals and Botanical Products,325411,Medicinal and Botanical Manufacturing
+2834,Pharmaceutical Preparations ,325412,Pharmaceutical Preparation  Manufacturing
+2835,In Vitro and In Vivo Diagnostic Substances (except in-vitro diagnostic substances),32541*,Multiple
+2836,"Biological Products, Except Diagnostic Substances",325414,Biological Product (except Diagnostic) Manufacturing
+2841,"Soaps and Other Detergents, Except Specialty Cleaners",325611,Soap and Other Detergent  Manufacturing
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",325612,Polish and Other Sanitation Good Manufacturing
+2843,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants",325613,Surface Active Agent  Manufacturing
+2844,"Perfumes, Cosmetics, and Other Toilet Preparations (toothpaste, gel, and dentifrice powders)",325***,Multiple
+2851,"Paints, Varnishes, Lacquers, Enamels and Allied Products",325510,Paint and Coating Manufacturing
+2861,Gum and Wood Chemicals,325191,Gum and Wood Chemical Manufacturing
+2865,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments (aromatics)",3251**,Multiple
+2869,"Industrial Organic Chemicals, NEC (aliphatics)",325***,Multiple
+2873,Nitrogenous Fertilizers,325311,Nitrogenous Fertilizer Manufacturing
+2874,Phosphatic Fertilizers,325312,Phosphatic Fertilizer Manufacturing
+2875,"Fertilizers, Mixing Only",325314,Fertilizer (Mixing Only) Manufacturing
+2879,"Pesticides and Agricultural Chemicals, NEC",325320,Pesticide and Other Agricultural Chemical Manufacturing
+2891,Adhesives and Sealants,325520,Adhesive Manufacturing
+2892,Explosives,325920,Explosives Manufacturing
+2893,Printing Ink,325910,Printing Ink Manufacturing
+2895,Carbon Black,325182,Carbon Black Manufacturing
+2899,"Chemicals and Chemical Preparations, NEC (table salt)",32****,Multiple
+2911,Petroleum Refining,324110,Petroleum Refineries
+2951,Asphalt Paving Mixtures and Blocks,324121,Asphalt Paving Mixture and Block Manufacturing
+2952,Asphalt Felts and Coatings,324122,Asphalt Shingle and Coating Materials Manufacturing
+2992,Lubricating Oils and Greases,324191,Petroleum Lubricating Oil and Grease Manufacturing
+2999,"Products of Petroleum and Coal, NEC",324199,All Other Petroleum and Coal Products Manufacturing
+3011,Tires and Inner Tubes,326211,Tire Manufacturing (except Retreading)
+3021,Rubber and Plastics Footwear,316211,Rubber and Plastics Footwear Manufacturing
+3052,Rubber and Plastics Hose and Belting,326220,Rubber and Plastics Hoses and Belting Manufacturing
+3053,"Gaskets, Packing, and Sealing Devices",339991,"Gasket, Packing, and Sealing Device Manufacturing"
+3061,"Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods",326291,Rubber Product Manufacturing for Mechanical Use
+3069,"Fabricated Rubber Products, NEC (rubberizing fabric or purchased textile products)",3*****,Multiple
+3081,Unsupported Plastics Film and Sheet,326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing
+3082,Unsupported Plastics Profile Shapes,326121,Unlaminated Plastics Profile Shape Manufacturing
+3083,"Laminated Plastics Plate, Sheet, and Profile Shapes",326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+3084,Plastics Pipe,326122,Plastics Pipe and Pipe Fitting Manufacturing
+3085,Plastics Bottles,326160,Plastics Bottle Manufacturing
+3086,Plastics Foam Products (polystyrene foam products),32****,Multiple
+3087,Custom Compounding of Purchased Plastics Resins,325991,Custom Compounding of Purchased Resins 
+3088,Plastics Plumbing Fixtures,326191,Plastics Plumbing Fixture Manufacturing
+3089,"Plastics Products, NEC (plastics sausage casings)",3*****,Multiple
+3111,Leather Tanning and Finishing,316110,Leather and Hide Tanning and Finishing
+3131,Boot and Shoe Cut Stock and Findings (except wood heels and metal buckles),3*****,Multiple
+3142,House Slippers,316212,House Slipper Manufacturing
+3143,"Men’s Footwear, Except Athletic",316213,Men’s Footwear (except Athletic) Manufacturing
+3144,"Women’s Footwear, Except Athletic",316214,Women’s Footwear (except Athletic) Manufacturing 
+3149,"Footwear,  Except Rubber, NEC",316219,Other Footwear Manufacturing
+3151,Leather Gloves and Mittens (men's and boys' contractors),31****,Multiple
+3161,Luggage,316991,Luggage Manufacturing
+3171,Women’s Handbags and Purses,316992,Women's Handbag and Purse Manufacturing
+3172,"Personal Leather Goods, Except Women’s Handbags and Purses (except nonprecious metal personal goods, such as card cases, cigar cases, and comb cases)",3*****,Multiple
+3199,"Leather Goods, NEC",316999,All Other Leather Good Manufacturing
+3211,Flat Glass,327211,Flat Glass Manufacturing
+3221,Glass Containers,327213,Glass Container Manufacturing
+3229,"Pressed and Blown Glass and Glassware, NEC",327212,Other Pressed and Blown Glass and Glassware Manufacturing
+3231,Glass Products Made of Purchased Glass,327215,Glass Product Manufacturing Made of Purchased Glass
+3241,"Cement, Hydraulic",327310,Cement Manufacturing
+3251,Brick and Structural Clay Tile (except slumped brick),327***,Multiple
+3253,Ceramic Wall and Floor Tile,327122,Ceramic Wall and Floor Tile Manufacturing
+3255,Clay Refractories,327124,Clay Refractory Manufacturing
+3259,"Structural Clay Products, NEC",327123,Other Structural Clay Product Manufacturing
+3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories,327111,Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing
+3262,Vitreous China Table and Kitchen Articles,327112,"Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing"
+3263,Fine Earthenware (Whiteware) Table and Kitchen Articles,327112,"Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing"
+3264,Porcelain Electrical Supplies,327113,Porcelain Electrical Supply Manufacturing
+3269,"Pottery Products, NEC",327112,"Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing"
+3271,Concrete Block and Brick,327331,Concrete Block and Brick Manufacturing
+3272,"Concrete Products, Except Block and Brick (concrete pipe)",327***,Multiple
+3273,Ready-Mixed Concrete,327320,Ready-Mix Concrete Manufacturing
+3274,Lime,327410,Lime Manufacturing
+3275,Gypsum Products,327420,Gypsum Product Manufacturing
+3281,Cut Stone and Stone Products,327991,Cut Stone and Stone Product Manufacturing
+3291,Abrasive Products (except steel wool with or without soap),3*****,Multiple
+3292,Asbestos Products (except brake pads and linings),******,Multiple
+3295,"Minerals and Earths, Ground or Otherwise Treated (grinding, washing, separating, etc. of kaolin and ball clay)",******,Multiple
+3296,Mineral Wool,327993,Mineral Wool Manufacturing
+3297,Nonclay Refractories,327125,Nonclay Refractory Manufacturing
+3299,"Nonmetallic Mineral Products, NEC (clay statuary)",32****,Multiple
+3312,"Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills (coke ovens)",331***,Multiple
+3313,"Electrometallurgical Products, Except Steel",331112,Electrometallurgical Ferroalloy Product Manufacturing
+3315,Steel Wiredrawing and Steel Nails and Spikes (steel wire drawing),33****,Multiple
+3316,"Cold-Rolled Steel Sheet, Strip, and Bars",331221,Rolled Steel Shape Manufacturing
+3317,Steel Pipe and Tubes,331210,Iron and Steel Pipe and Tube Manufacturing from  Purchased Steel
+3321,Gray and Ductile Iron Foundries,331511,Iron Foundries
+3322,Malleable Iron Foundries,331511,Iron Foundries
+3324,Steel Investment Foundries,331512,Steel Investment Foundries
+3325,"Steel Foundries, NEC",331513,Steel Foundries (except Investment)
+3331,Primary Smelting and Refining of Copper,331411,Primary Smelting and Refining of Copper
+3334,Primary Production of Aluminum,331312,Primary Aluminum Production
+3339,"Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum",331419,Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)
+3341,Secondary Smelting and Refining of Nonferrous Metals (aluminum),3314**,Multiple
+3351,"Rolling, Drawing, and Extruding of Copper",331421,"Copper Rolling, Drawing, and Extruding"
+3353,"Aluminum Sheet, Plate, and Foil",331315,"Aluminum Sheet, Plate, and Foil Manufacturing"
+3354,Aluminum Extruded Products,331316,Aluminum Extruded Product Manufacturing
+3355,"Aluminum Rolling and Drawing, NEC",331319,Other Aluminum Rolling and Drawing
+3356,"Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum",331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+3357,Drawing and Insulating of Nonferrous Wire (aluminum wire drawing),33****,Multiple
+3363,Aluminum Die-Castings,331521,Aluminum Die-Casting Foundries
+3364,"Nonferrous Die-Castings, Except Aluminum",331522,Nonferrous (except Aluminum) Die-Casting Foundries
+3365,Aluminum Foundries,331524,Aluminum Foundries (except Die-Casting)
+3366,Copper Foundries,331525,Copper Foundries (except Die-Casting)
+3369,"Nonferrous Foundries, Except Aluminum and Copper",331528,Other Nonferrous Foundries (except Die-Casting)
+3398,Metal Heat Treating,332811,Metal Heat Treating
+3399,"Primary Metal Products, NEC (iron ore recovery from open hearth slag)",33****,Multiple
+3411,Metal Cans,332431,Metal Can Manufacturing
+3412,"Metal Shipping Barrels, Drums, Kegs, and Pails",332439,Other Metal Container Manufacturing
+3421,"Cutlery (except hedge shears and trimmers, tinners' snips, and similar nonelectric hand tools)",332212,Multiple
+3423,"Hand and Edge Tools, Except Machine Tools and Handsaws",332212,Hand and Edge Tool Manufacturing
+3425,Saw Blades and Handsaws,332213,Saw Blade and Handsaw Manufacturing
+3429,"Hardware, NEC (vacuum and insulated bottles, jugs, and chests)",33****,Multiple
+3431,Enameled Iron and Metal Sanitary Ware,332998,Enameled Iron and Metal Sanitary Ware Manufacturing
+3432,"Plumbing Fixture Fittings and Trim (except shower rods, lawn hose nozzles, and lawn sprinklers)",33****,Multiple
+3433,"Heating Equipment, Except Electric and Warm Air Furnaces",333414,Heating Equipment (except Warm Air Furnaces) Manufacturing
+3441,Fabricated Structural Metal,332312,Fabricated Structural Metal Manufacturing
+3442,"Metal Doors, Sash, Frames, Molding, and Trim",332321,Metal Window and Door Manufacturing  
+3443,Fabricated Plate Work (Boiler Shops) (fabricated plate work and metal weldments),33****,Multiple
+3444,Sheet Metal Work (stamped metal skylights),33****,Multiple
+3446,Architectural and Ornamental Metal Work,332323,Ornamental and Architectural Metal Work Manufacturing
+3448,Prefabricated Metal Buildings and Components,332311,Prefabricated Metal Building and Component  Manufacturing
+3449,Miscellaneous Structural Metal Work (custom roll forming),332***,Multiple
+3451,Screw Machine Products,332721,Precision Turned Product Manufacturing
+3452,"Bolts, Nuts, Screws, Rivets, and Washers",332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing"
+3462,Iron and Steel Forgings,332111,Iron and Steel Forging
+3463,Nonferrous Forgings,332112,Nonferrous Forging
+3465,Automotive Stampings,336370,Motor Vehicle Metal Stamping
+3466,Crowns and Closures,332115,Crown and Closure Manufacturing
+3469,"Metal Stampings, NEC (except kitchen utensils, pots and pans for cooking, coins, and stamped metal boxes)",332***,Multiple
+3471,"Electroplating, Plating, Polishing, Anodizing, and Coloring",332813,"Electroplating, Plating, Polishing, Anodizing and Coloring"
+3479,"Coating, Engraving, and Allied Services, NEC (except jewelry, silverware, and flatware engraving and etching)",33****,Multiple
+3482,Small Arms Ammunition,332992,Small Arms Ammunition Manufacturing
+3483,"Ammunition, Except for Small Arms",332993,Ammunition (except Small Arms) Manufacturing
+3484,Small Arms,332994,Small Arms Manufacturing
+3489,"Ordnance and Accessories, NEC",332995,Other Ordnance and Accessories Manufacturing
+3491,Industrial Valves,332911,Industrial Valve Manufacturing
+3492,Fluid Power Valves and Hose Fittings,332912,Fluid Power Valve and Hose Fitting Manufacturing
+3493,"Steel Springs, Except Wire",332611,Spring (Heavy Gauge) Manufacturing
+3494,"Valves and Pipe Fittings, NEC (except metal pipe hangers and supports)",332***,Multiple
+3495,Wire Springs (except watch and clock springs),33****,Multiple
+3496,Miscellaneous Fabricated Wire Products (potato mashers),3*****,Multiple
+3497,Metal Foil and Leaf (laminated aluminum foil rolls and sheets for flexible packaging uses),33299*,Multiple
+3498,Fabricated Pipe and Pipe Fittings,332996,Fabricated Pipe and Pipe Fitting Manufacturing
+3499,"Fabricated Metal Products, NEC (powder metallurgy)",33****,Multiple
+3511,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units",333611,Turbine and Turbine Generator Set Units Manufacturing
+3519,"Internal Combustion Engines, NEC (except stationary engine radiators)",33****,Multiple
+3523,Farm Machinery and Equipment (hand hair clippers for animals),33****,Multiple
+3524,Lawn and Garden Tractors and Home Lawn and Garden Equipment (nonpowered lawnmowers),3331**,Multiple
+3531,"Construction Machinery and Equipment (except railway track maintenance equipment; winches, aerial work platforms; and automotive wrecker hoists)",33****,Multiple
+3532,"Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment",333131,Mining Machinery and Equipment Manufacturing
+3533,Oil and Gas Field Machinery and Equipment,333132,Oil and Gas Field Machinery and Equipment Manufacturing
+3534,Elevators and Moving Stairways,333921,Elevator and Moving Stairway Manufacturing
+3535,Conveyors and Conveying Equipment,333922,Conveyor and Conveying Equipment Manufacturing
+3536,"Overhead Traveling Cranes, Hoists, and Monorail Systems",333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"
+3537,"Industrial Trucks, Tractors, Trailers, and Stackers (metal air cargo containers)",33****,Multiple
+3541,"Machine Tools, Metal Cutting Types",333512,Machine Tool (Metal Cutting Types) Manufacturing
+3542,"Machine Tools, Metal Forming Type",333513,Machine Tool (Metal Forming Types) Manufacturing
+3543,Industrial Patterns,332997,Industrial Pattern Manufacturing
+3544,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds (industrial molds)",33****,Multiple
+3545,"Cutting Tools, Machine Tool Accessories, and Machinist Precision Measuring Devices (precision measuring devices)",333***,Multiple
+3546,Power-Driven Handtools,333991,Power-Driven Hand Tool Manufacturing
+3547,Rolling Mill Machinery and Equipment,333516,Rolling Mill Machinery and Equipment Manufacturing
+3548,Electric and Gas Welding and Soldering Equipment (except transformers for arc-welding),33****,Multiple
+3549,"Metalworking Machinery, NEC",333518,Other Metalworking Machinery Manufacturing
+3552,Textile Machinery,333292,Textile Machinery Manufacturing
+3553,Woodworking Machinery,333210,Sawmill and Woodworking Machinery Manufacturing
+3554,Paper Industries Machinery,333291,Paper Industry Machinery Manufacturing
+3555,Printing Trades Machinery and Equipment,333293,Printing Machinery and Equipment Manufacturing
+3556,Food Products Machinery,333294,Food Product Machinery Manufacturing
+3559,"Special Industry Machinery, NEC (nuclear control rod drive mechanisms)",333***,Multiple
+3561,Pumps and Pumping Equipment,333911,Pump and Pumping Equipment Manufacturing
+3562,Ball and Roller Bearings,332991,Ball and Roller Bearing Manufacturing
+3563,Air and Gas Compressors,333912,Air and Gas Compressor Manufacturing 
+3564,Industrial and Commercial Fans and Blowers and Air Purification Equipment (air purification equipment),333***,Multiple
+3565,Packaging Machinery,333993,Packaging Machinery Manufacturing
+3566,"Speed Changers, Industrial High-Speed Drives, and Gears",333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
+3567,Industrial Process Furnaces and Ovens,333994,Industrial Process Furnace and Oven Manufacturing
+3568,"Mechanical Power Transmission Equipment, NEC",333613,Mechanical Power Transmission Equipment Manufacturing
+3569,"General Industrial Machinery and Equipment, NEC (textile fire hose)",33****,Multiple
+3571,Electronic Computers,334111,Electronic Computer Manufacturing
+3572,Computer Storage Devices,334112,Computer Storage Device Manufacturing
+3575,Computer Terminals,334113,Computer Terminal Manufacturing
+3577,"Computer Peripheral Equipment, NEC (except plotter controllers and magnetic tape head cleaners)",33****,Multiple
+3578,"Calculating and Accounting Machinery, Except Electronic Computers (change making machines)",33****,Multiple
+3579,"Office Machines, NEC (except timeclocks, time stamps, pencil sharpeners, stapling machines, etc.)",33****,Multiple
+3581,Automatic Vending Machines,333311,Automatic Vending Machine Manufacturing
+3582,"Commercial Laundry, Drycleaning, and Pressing Machines",333312,"Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing"
+3585,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment (except motor vehicle air-conditioning),33****,Multiple
+3586,Measuring and Dispensing Pumps,333913,Measuring and Dispensing Pump Manufacturing
+3589,"Service Industry Machinery, NEC",333319,Other Commercial and Service Industry Machinery Manufacturing
+3592,"Carburetors, Pistons, Piston Rings, and Valves",336311,"Carburetor, Piston, Piston Ring, and Valve Manufacturing"
+3593,Fluid Power Cylinders and Actuators,333995,Fluid Power Cylinder and Actuator Manufacturing
+3594,Fluid Power Pumps and Motors,333996,Fluid Power Pump and Motor Manufacturing
+3596,"Scales and Balances, Except Laboratory",333997,Scale and Balance (except Laboratory) Manufacturing
+3599,"Industrial and Commercial Machinery and Equipment, NEC (machine shops)",33****,Multiple
+3612,"Power, Distribution, and Specialty Transformers",335311,"Power, Distribution, and Specialty Transformer Manufacturing"
+3613,Switchgear and Switchboard Apparatus,335313,Switchgear and Switchboard Apparatus Manufacturing
+3621,Motors and Generators,335312,Motor and Generator Manufacturing
+3624,Carbon and Graphite Products ,335991,Carbon and Graphite Product Manufacturing
+3625,Relays and Industrial Controls,335314,Relay and Industrial Control Manufacturing
+3629,"Electrical Industrial Apparatus, NEC",335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing
+3631,Household Cooking Equipment,335221,Household Cooking Appliance Manufacturing
+3632,Household Refrigerators and Home and Farm Freezers,335222,Household Refrigerator and Home Freezer Manufacturing
+3633,Household Laundry Equipment,335224,Household Laundry Equipment Manufacturing
+3634,Electric Housewares and Fans (wall and baseboard heating units for permanent installation),33****,Multiple
+3635,Household Vacuum Cleaners,335212,Household Vacuum Cleaner Manufacturing
+3639,"Household Appliances, NEC (household sewing machines)",335***,Multiple
+3641,Electric Lamp Bulbs and Tubes,335110,Electric Lamp Bulb and Part Manufacturing
+3643,Current-Carrying Wiring Devices,335931,Current-Carrying Wiring Device Manufacturing
+3644,"Noncurrent-Carrying Wiring Devices (fish wire, electrical wiring tool)",335***,Multiple
+3645,Residential Electric Lighting Fixtures,335121,Residential Electric Lighting Fixture Manufacturing 
+3646,"Commercial, Industrial, and Institutional Electric Lighting Fixtures",335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+3647,Vehicular Lighting Equipment,336321,Vehicular Lighting Equipment Manufacturing
+3648,"Lighting Equipment, NEC",335129,Other Lighting Equipment Manufacturing
+3651,Household Audio and Video Equipment,334310,Audio and Video Equipment Manufacturing
+3652,Phonograph Records and Prerecorded Audio Tapes and Disks (reproduction of all other media except video),******,Multiple
+3661,Telephone and Telegraph Apparatus (except consumer external modems),334***,Multiple
+3663,Radio and Television Broadcasting and Communications Equipment,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+3669,"Communications Equipment, NEC",334290,Other Communications Equipment Manufacturing
+3671,Electron Tubes,334411,Electron Tube Manufacturing
+3672,Printed Circuit Boards,334412,Bare Printed Circuit Board Manufacturing
+3674,Semiconductors and Related Devices,334413,Semiconductor and Related Device Manufacturing
+3675,Electronic Capacitors,334414,Electronic Capacitor Manufacturing
+3676,Electronic Resistors,334415,Electronic Resistor Manufacturing
+3677,"Electronic Coils, Transformers, and Other Inductors",334416,"Electronic Coil, Transformer, and Other Inductor Manufacturing"
+3678,Electronic Connectors,334417,Electronic Connector Manufacturing
+3679,"Electronic Components, NEC (antennas)",33****,Multiple
+3691,Storage Batteries,335911,Storage Battery Manufacturing
+3692,"Primary Batteries, Dry and Wet",335912,Primary Battery Manufacturing
+3694,Electrical Equipment for Internal Combustion Engines,336322,Other Motor Vehicle Electrical and Electronic Equipment Manufacturing
+3695,Magnetic and Optical Recording Media,334613,Magnetic and Optical Recording Media Manufacturing
+3699,"Electrical Machinery, Equipment, and Supplies, NEC (electronic teaching machines and flight simulators)",33****,Multiple
+3711,Motor Vehicles and Passenger Car Bodies (automobiles),336***,Multiple
+3713,Truck and Bus Bodies,336211,Motor Vehicle Body Manufacturing
+3714,Motor Vehicle Parts and Accessories (dump truck lifting mechanisms and fifth wheels),336***,Multiple
+3715,Truck Trailers,336212,Truck Trailer Manufacturing
+3716,Motor Homes,336213,Motor Home Manufacturing
+3721,Aircraft (except research and development not producing prototypes),******,Multiple
+3724,Aircraft Engines and Engine Parts (except research and development not producing prototypes),******,Multiple
+3728,"Aircraft Parts and Auxiliary Equipment, NEC (fluid power aircraft subassemblies)",******,Multiple
+3731,Ship Building and Repairing (except repairs in floating drydocks),******,Multiple
+3732,Boat Building and Repairing (boat building),******,Multiple
+3743,Railroad Equipment (locomotive fuel lubricating or cooling medium pumps),336***,Multiple
+3751,"Motorcycles, Bicycles, and Parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+3761,Guided Missiles and Space Vehicles (except research and development not producing prototypes),******,Multiple
+3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts (except research and development not producing prototypes)),******,Multiple
+3769,"Guided Missile and Space Vehicle Parts and Auxiliary Equipment, NEC (except research and development not producing prototypes)",******,Multiple
+3792,Travel Trailers and Campers,336214,Travel Trailer and Camper Manufacturing
+3795,Tanks and Tank Components,336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing"
+3799,"Transportation Equipment, NEC (wheelbarrows)",33****,Multiple
+3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",334511,"Search, Detection, Navigation, Guidance, Aeronautical, and  Nautical System and Instrument Manufacturing"
+3821,Laboratory Apparatus and Furniture,339111,Laboratory Apparatus and Furniture Manufacturing
+3822,Automatic Controls for Regulating Residential and Commercial Environments and Appliances,334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+3823,"Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products",334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+3824,Totalizing Fluid Meters and Counting Devices,334514,Totalizing Fluid Meter and Counting Device Manufacturing
+3825,Instruments for Measuring and Testing of Electricity and Electrical Signals (automotive ammeters and voltmeters),33451*,Multiple
+3826,Laboratory Analytical Instruments,334516,Analytical Laboratory Instrument Manufacturing
+3827,Optical Instruments and Lenses,333314,Optical Instrument and Lens Manufacturing
+3829,"Measuring and Controlling Devices, NEC (motor vehicle gauges)",33****,Multiple
+3841,Surgical and Medical Instruments and Apparatus (tranquilizer guns),3*****,Multiple
+3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies (incontinent pads and bed pads)",33****,Multiple
+3843,Dental Equipment and Supplies,339114,Dental Equipment and Supplies Manufacturing
+3844,X-Ray Apparatus and Tubes and Related Irradiation Apparatus,334517,Irradiation Apparatus Manufacturing
+3845,Electromedical and Electrotherapeutic Apparatus (except CT and CAT scanners),33****,Multiple
+3851,"Ophthalmic Goods (intraoccular lenses, i.e., surgical implants)",3*****,Multiple
+3861,"Photographic Equipment and Supplies (photographic films, paper, plates and chemicals)",33****,Multiple
+3873,"Watches, Clocks, Clockwork Operated Devices, and Parts",334518,"Watch, Clock, and Part Manufacturing"
+3911,"Jewelry, Precious Metal",339911,Jewelry (except Costume) Manufacturing
+3914,"Silverware, Plated Ware, and Stainless Steel Ware (cutlery and flatware, nonprecious and precious plated)",33****,Multiple
+3915,Jewelers Findings and Materials and Lapidary Work (watch jewels),3399**,Multiple
+3931,Musical Instruments,339992,Musical Instrument Manufacturing
+3942,Dolls and Stuffed Toys,339931,Doll and Stuffed Toy Manufacturing
+3944,"Games, Toys, and Children’s Vehicles, Except Dolls and Bicycles (metal tricycles)",3399**,Multiple
+3949,"Sporting and Athletic Goods, NEC",339920,Sporting and Athletic Goods Manufacturing
+3951,"Pens, Mechanical Pencils, and Parts ",339941,Pen and Mechanical Pencil Manufacturing
+3952,Lead Pencils and Art Goods (drawing inks and india ink),33****,Multiple
+3953,Marking Devices,339943,Marking Device Manufacturing
+3955,Carbon Paper and Inked Ribbons,339944,Carbon Paper and Inked Ribbon Manufacturing
+3961,"Costume Jewelry and Costume Novelties, Except Precious Metal (except cuff links)",339993,Multiple
+3965,"Fasteners, Buttons, Needles, and Pins",339993,"Fastener, Button, Needle, and Pin Manufacturing"
+3991,Brooms and Brushes,339994,"Broom, Brush, and Mop Manufacturing"
+3993,Signs and Advertising Specialties (screen printing purchased advertising specialties),3399**,Multiple
+3995,Burial Caskets,339995,Burial Casket Manufacturing
+3996,"Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, NEC",326192,Resilient Floor Covering Manufacturing
+3999,"Manufacturing Industries, NEC (fur dressing and finishing)",******,Multiple
+4011,"Railroads, Line-Haul Operating",482111,Line-Haul Railroads
+4013,Railroad Switching and Terminal Establishments (short line railroads),48****,Multiple
+4111,Local and Suburban Transit (mixed mode),485***,Multiple
+4119,"Local Passenger Transportation, NEC (limousine rental with driver and automobile rental with driver)",******,Multiple
+4121,Taxicabs,485310,Taxi Service
+4131,Intercity and Rural Bus Transportation,485210,Interurban and Rural Bus Transportation
+4141,Local Bus Charter Service,485510,Charter Bus Industry
+4142,"Bus Charter Service, Except Local",485510,Charter Bus Industry
+4151,School Buses,485410,School and Employee Bus Transportation
+4173,Terminal and Service Facilities for Motor Vehicle Passenger Transportation,488490,Other Support Activities for Road Transportation
+4212,Local Trucking Without Storage (general freight),******,Multiple
+4213,"Trucking, Except Local (general freight, truckload)",484***,Multiple
+4214,Local Trucking With Storage (general freight),4(8|9)****,Multiple
+4215,"Courier Services, Except by Air (hub and spoke intercity delivery)",49****,Multiple
+4221,Farm Product Warehousing and Storage,493130,Farm Product Warehousing and Storage
+4222,Refrigerated Warehousing and Storage,493120,Refrigerated Warehousing and Storage
+4225,General Warehousing and Storage (except self-storage and miniwarehouses),******,Multiple
+4226,"Special Warehousing and Storage, NEC (warehousing in foreign trade zones)",4(8|9)****,Multiple
+4231,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation,488490,Other Support Activities for Road Transportation
+4311,United States Postal Service,491110,Postal Service
+4412,Deep Sea Foreign Transportation of Freight,483111,Deep Sea Freight Transportation
+4424,Deep Sea Domestic Transportation of Freight,483113,Coastal and Great Lakes Freight Transportation
+4432,Freight Transportation on the Great Lakes - St. Lawrence Seaway,483113,Coastal and Great Lakes Freight Transportation
+4449,"Water Transportation of Freight, NEC",483211,Inland Water Freight Transportation
+4481,"Deep Sea Transportation of Passengers, Except by Ferry (deep sea activities)",483114,Multiple
+4482,Ferries (coastal and Great Lakes),483212,Multiple
+4489,"Water Transportation of Passengers, NEC (water taxi)",48****,Multiple
+4491,Marine Cargo Handling (dock and pier operations),4883**,Multiple
+4492,Towing and Tugboat Services ,488330,Navigational Services to Shipping
+4493,Marinas,713930,Marinas
+4499,"Water Transportation Services, NEC (lighterage)",******,Multiple
+4512,"Air Transportation, Scheduled (passenger)",4(8|9)****,Multiple
+4513,Air Courier Services,492110,Couriers
+4522,"Air Transportation, Nonscheduled (passenger)",******,Multiple
+4581,"Airports, Flying Fields, and Airport Terminal Services (private air traffic control)",******,Multiple
+4612,Crude Petroleum Pipelines,486110,Pipeline Transportation of Crude Oil
+4613,Refined Petroleum Pipelines,486910,Pipeline Transportation of Refined Petroleum Products
+4619,"Pipelines, NEC",486990,All Other Pipeline Transportation
+4724,Travel Agencies,561510,Travel Agencies
+4725,Tour Operators,561520,Tour Operators
+4729,"Arrangement of Passenger Transportation, NEC (arrangement of carpools and vanpools)",******,Multiple
+4731,"Arrangement of Transportation of Freight and Cargo (except freight rate auditors, private mail centers, and tariff consultants)",******,Multiple
+4741,"Rental of Railroad Cars (grain leveling in railroad cars, grain trimming for railroad equipment, precooling of fruits and vegetables in connection with transportation, and railroad car cleaning, icing, ventilating, and heating)",******,Multiple
+4783,Packing and Crating,488991,Packing and Crating
+4785,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation (marine cargo checkers),48****,Multiple
+4789,"Transportation Services, NEC (horse-drawn cabs and carriages)",******,Multiple
+4812,Radiotelephone Communications (paging carriers),517***,Multiple
+4813,"Telephone Communications, Except Radiotelephone (except resellers)",517***,Multiple
+4822,Telegraph and Other Message Communications,517110,Wired Telecommunications Carriers
+4832,Radio Broadcasting Stations (networks),5151**,Multiple
+4833,Television Broadcasting Stations ,515120,Television Broadcasting 
+4841,Cable and Other Pay Television Services (cable networks),******,Multiple
+4899,"Communications Services, NEC (radio broadcasting operated by cab companies)",******,Multiple
+4911,Electric Services (hydroelectric power generation),******,Multiple
+4922,Natural Gas Transmission,486210,Pipeline Transportation of Natural Gas
+4923,Natural Gas Transmission and Distribution (distribution),******,Multiple
+4924,Natural Gas Distribution,221210,Natural Gas Distribution
+4925,"Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution",221210,Natural Gas Distribution
+4931,Electric and Other Services Combined (hydroelectric power generation) ,221***,Multiple
+4932,Gas and Other Services Combined (natural gas distribution),221210,Natural Gas Distribution
+4939,"Combination Utilities, NEC (hydroelectric power generation)",221***,Multiple
+4941,Water Supply,221310,Water Supply and Irrigation Systems
+4952,Sewerage Systems,221320,Sewage Treatment Facilities
+4953,Refuse Systems (hazardous waste treatment and disposal),******,Multiple
+4959,"Sanitary Services, NEC (vacuuming of runways)",******,Multiple
+4961,Steam and Air-Conditioning Supply,221330,Steam and Air-Conditioning Supply
+4971,Irrigation Systems,221310,Water Supply and Irrigation Systems
+5012,Automobiles and Other Motor Vehicles (merchant wholesalers),42****,Multiple
+5013,Motor Vehicle Supplies and New Parts (merchant wholesalers except those selling via retail method) ,4*****,Multiple
+5014,Tires and Tubes (merchant wholesalers except those selling via retail method),4*****,Multiple
+5015,"Motor Vehicle Parts, Used (merchant wholesalers except those selling via retail method)",4*****,Multiple
+5021,Furniture (merchant wholesalers except those selling via retail method),4*****,Multiple
+5023,Homefurnishings (merchant wholesalers except those selling via retail method),4*****,Multiple
+5031,"Lumber, Plywood, Millwork, and Wood Panels (merchant wholesalers)",4*****,Multiple
+5032,"Brick, Stone, and Related Construction Materials  (merchant wholesalers except construction materials sold via retail method)",4*****,Multiple
+5033,"Roofing, Siding, and Insulation Materials (merchant wholesalers except those selling via retail method)",4*****,Multiple
+5039,"Construction Materials, NEC (merchant wholesalers of prefabricated buildings and structural assemblies, wood)",4*****,Multiple
+5043,Photographic Equipment and Supplies (merchant wholesalers),42****,Multiple
+5044,Office Equipment (merchant wholesalers except those selling office equipment via retail method),4*****,Multiple
+5045,"Computers and Computer Peripheral Equipment and Software (merchant wholesalers except those selling computers, equipment, and software via retail method)",4*****,Multiple
+5046,"Commercial Equipment, NEC (merchant wholesalers)",42****,Multiple
+5047,"Medical, Dental and Hospital Equipment and Supplies (merchant wholesalers except those selling medical, dental, and hospital equipment and supplies via retail method)",4*****,Multiple
+5048,Ophthalmic Goods (merchant wholesalers),42****,Multiple
+5049,"Professional Equipment and Supplies, NEC (merchant wholesalers except those selling religious and teacher's school supplies via retail method) ",4*****,Multiple
+5051,Metals Service Centers and Offices (merchant wholesalers) ,42****,Multiple
+5052,Coal and Other Minerals and Ores (merchant wholesalers),42****,Multiple
+5063,"Electrical Apparatus and Equipment, Wiring Supplies and Construction Materials (merchant wholesalers except those selling electrical supplies, equipment, and apparatus via retail method)",4*****,Multiple
+5064,"Electrical Appliances, Television and Radio Sets (merchant wholesalers except those selling appliances, TVs, and radios via retail method)",4*****,Multiple
+5065,"Electronic Parts and Equipment, NEC (merchant wholesalers except those selling electronic parts and equipment via retail method)",4*****,Multiple
+5072,Hardware (merchant wholesalers except those selling hardware via retail method),4*****,Multiple
+5074,Plumbing and Heating Equipment and Supplies (Hydronics) (merchant wholesalers except those selling  plumbing and hydronic heating equipment via retail method),4*****,Multiple
+5075,Warm Air Heating and Air-Conditioning Equipment and Supplies (merchant wholesalers),42****,Multiple
+5078,Refrigeration Equipment and Supplies (merchant wholesalers),42****,Multiple
+5082,Construction and Mining (Except Petroleum) Machinery and Equipment (merchant wholesalers),42****,Multiple
+5083,Farm and Garden Machinery and Equipment (merchant wholesalers except those selling lawn and garden equipment via retail method),4*****,Multiple
+5084,Industrial Machinery and Equipment (merchant wholesalers),42****,Multiple
+5085,Industrial Supplies (merchant wholesalers of fluid power accessories),4*****,Multiple
+5087,Service Establishment Equipment and Supplies (merchant wholesalers except those selling beauty and barber shop equipment and supplies via retail method),4*****,Multiple
+5088,"Transportation Equipment and Supplies, Except Motor Vehicles (merchant wholesalers)",42****,Multiple
+5091,Sporting and Recreational Goods and Supplies (merchant wholesalers except those selling sporting and recreational goods via retail method),4*****,Multiple
+5092,Toys and Hobby Goods and Supplies (merchant wholesalers except those selling toys and hobby goods and supplies via retail method),4*****,Multiple
+5093,Scrap and Waste Materials (merchant wholesalers),42****,Multiple
+5094,"Jewelry, Watches, Precious Stones, and Precious Metals (merchant wholesalers except those selling jewelry and related goods via retail method)",4*****,Multiple
+5099,"Durable Goods, NEC (merchant wholesalers except those selling miscellaneous durable goods via retail method)",4*****,Multiple
+5111,Printing and Writing Paper (merchant wholesalers except those selling printing and writing paper via retail method),4*****,Multiple
+5112,Stationery and Office Supplies (merchant wholesalers except those selling stationery and office supplies via retail method),4*****,Multiple
+5113,Industrial and Personal Service Paper (merchant wholesalers except those selling industrial and personal service paper via retail method),4*****,Multiple
+5122,"Drugs, Drug Proprietaries, and Druggists’ Sundries (merchant wholesalers except those selling drugs and sundries via retail method)",******,Multiple
+5131,"Piece Goods, Notions, and Other Dry Goods (broadwoven converters)",******,Multiple
+5136,Men's and Boys' Clothing and Furnishings (merchant wholesalers of athletic uniforms),4*****,Multiple
+5137,"Women's, Children's and Infants' Clothing and Accessories (merchant wholesalers of athletic uniforms)",4*****,Multiple
+5139,Footwear (merchant wholesalers except those selling footwear via retail method),4*****,Multiple
+5141,"Groceries, General Line (merchant wholesalers except those selling general line groceries via retail method)",4*****,Multiple
+5142,Packaged Frozen Foods (merchant wholesalers except those selling packaged frozen foods via retail method),4*****,Multiple
+5143,"Dairy Products, Except Dried or Canned (merchant wholesalers except those selling dairy products via retail method)",4*****,Multiple
+5144,Poultry and Poultry Products (merchant wholesalers except those selling poultry and poultry products via retail method),4*****,Multiple
+5145,Confectionery (merchant wholesalers except those selling confectionery via retail method),4*****,Multiple
+5146,Fish and Seafoods (merchant wholesalers except those selling fish and seafoods via retail method),******,Multiple
+5147,Meats and Meat Products (boxed beef),4*****,Multiple
+5148,Fresh Fruits and Vegetables (merchant wholesalers except those selling fresh fruits and vegetables via retail method),******,Multiple
+5149,"Groceries and Related Products, NEC (processed bottled water manufacturing) ",4*****,Multiple
+5153,Grain and Field Beans (merchant wholesalers except those selling grains and field beans via retail method),4*****,Multiple
+5154,Livestock (merchant wholesalers),42****,Multiple
+5159,"Farm-Product Raw Materials, NEC (merchant wholesalers except those selling farm product raw materials, nec via retail method)",4*****,Multiple
+5162,Plastics Materials and Basic Forms and Shapes (merchant wholesalers except those selling plastics via retail method),4*****,Multiple
+5169,"Chemicals and Allied Products, NEC (merchant wholesalers)",42****,Multiple
+5171,Petroleum Bulk Stations and Terminals (except petroleum sold via retail method),4*****,Multiple
+5172,"Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals (merchant wholesalers)",42****,Multiple
+5181,Beer and Ale (merchant wholesalers except those selling beer and ale via retail method),4*****,Multiple
+5182,Wine and Distilled Alcoholic Beverages (merchant wholesalers except those selling wine and distilled beverages via retail method),4*****,Multiple
+5191,Farm Supplies (merchant wholesalers except those selling lawn and garden supplies via retail method),4*****,Multiple
+5192,"Books, Periodicals, and Newspapers (merchant wholesalers except those selling publications via retail method)",4*****,Multiple
+5193,"Flowers, Nursery Stock, and Florists’ Supplies (merchant wholesalers except those selling nursery stock via retail method)",4*****,Multiple
+5194,Tobacco and Tobacco Products (merchant wholesalers except those selling tobacco and tobacco products via retail method),4*****,Multiple
+5198,"Paints, Varnishes, and Supplies (merchant wholesalers) ",42****,Multiple
+5199,"Nondurable Goods, NEC (merchant wholesalers of yarns, except industrial)",******,Multiple
+5211,Lumber and Other Building Materials Dealers (home center stores),4441**,Multiple
+5231,"Paint, Glass, and Wallpaper Stores (except glass)",4441**,Multiple
+5251,Hardware Stores,444130,Hardware Stores
+5261,"Retail Nurseries, Lawn and Garden Supply Stores (outdoor power equipment)",4(4|5)****,Multiple
+5271,Mobile Home Dealers,453930,Manufactured (Mobile) Home Dealers
+5311,Department Stores (except discount department stores and supercenters-general merchandise and groceries),452***,Multiple
+5331,Variety Stores,452990,All Other General Merchandise Stores
+5399,Miscellaneous General Merchandise Stores (warehouse clubs and supermarket/general merchandise combination),4(4|5)****,Multiple
+5411,"Grocery Stores (except convenience stores, freezer plans, and grocery stores with substantial general merchandise)",4(4|5)****,Multiple
+5421,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners (meat except freezer provisioners)",4(4|5)****,Multiple
+5431,Fruit and Vegetable Markets (except temporary fruit and vegetable stands),******,Multiple
+5441,"Candy, Nut, and Confectionery Stores (chocolate candy stores, preparing on premises)",******,Multiple
+5451,Dairy Products Stores,445299,All Other Specialty Food Stores
+5461,"Retail Bakeries (bread, cake and related products baked and sold on premise)",******,Multiple
+5499,Miscellaneous Food Stores (poultry and poultry products),44****,Multiple
+5511,Motor Vehicle Dealers (New and Used),441110,New Car Dealers
+5521,Motor Vehicle Dealers (Used Only),441120,Used Car Dealers
+5531,Auto and Home Supply Stores (auto supply stores),4(4|5)****,Multiple
+5541,Gasoline Service Station (gasoline station with convenience store),44****,Multiple
+5551,Boat Dealers ,441222,Boat Dealers
+5561,Recreational Vehicle Dealers,441210,Recreational Vehicle Dealers
+5571,Motorcycle Dealers,441221,Motorcycle Dealers
+5599,"Automotive Dealers, NEC",441229,All Other Motor Vehicle Dealers
+5611,Men's and Boys' Clothing and Accessory Stores (clothing stores),4481**,Multiple
+5621,Women's Clothing Stores (except dress shops and bridal shops),4481**,Multiple
+5632,Women's Accessory and Specialty Stores (accessories),4481**,Multiple
+5641,Children's and Infants’ Wear Stores,448130,Children's and Infants' Clothing Stores
+5651,Family Clothing Stores,448140,Family Clothing Stores
+5661,Shoe Stores,448210,Shoe Stores
+5699,Miscellaneous Apparel and Accessory Stores (custom tailors),******,Multiple
+5712,Furniture Stores (custom wood cabinets),******,Multiple
+5713,Floor Coverings Stores,442210,Floor Covering Stores
+5714,"Drapery, Curtain, and Upholstery Stores (custom drapes)",******,Multiple
+5719,Miscellaneous Homefurnishings Stores (manufacturing and selling pottery on site),44****,Multiple
+5722,Household Appliance Stores,443111,Household Appliance Stores
+5731,"Radio, Television, and Consumer Electronics Stores (automobile radios)",4431**,Multiple
+5734,Computer and Computer Software Stores,443120,Computer and Software Stores
+5735,Record and Prerecorded Tape Stores,451220,"Prerecorded Tape, Compact Disc, and Record Stores"
+5736,Musical Instruments Stores,451140,Musical Instrument and Supplies Stores
+5812,Eating Places (dinner theaters),722***,Multiple
+5813,Drinking Places (Alcoholic Beverages),722410,Drinking Places (Alcoholic Beverages)
+5912,Drug Stores and Proprietary Stores,446110,Pharmacies and Drug Stores
+5921,Liquor Stores,445310,"Beer, Wine, and Liquor Stores"
+5932,Used Merchandise Stores (except pawn shops),******,Multiple
+5941,Sporting Goods Stores and Bicycle Shops,451110,Sporting Goods Stores
+5942,Book Stores,451211,Book Stores
+5943,Stationery Stores,453210,Office Supplies and Stationery Stores
+5944,Jewelry Stores,448310,Jewelry Stores
+5945,"Hobby, Toy, and Game Stores",451120,"Hobby, Toy, and Game Stores"
+5946,Camera and Photographic Supply Stores,443130,Camera and Photographic Supplies Stores
+5947,"Gift, Novelty, and Souvenir Shops",453220,"Gift, Novelty, and Souvenir Stores"
+5948,Luggage and Leather Goods Stores,448320,Luggage and Leather Goods Stores
+5949,"Sewing, Needlework, and Piece Goods Stores",451130,"Sewing, Needlework, and Piece Goods Stores"
+5961,Catalog and Mail-Order Houses (electronic shopping web sites),454***,Multiple
+5962,Automatic Merchandise Machine Operators,454210,Vending Machine Operators
+5963,Direct Selling Establishments (except mobile food services and food wagons),******,Multiple
+5983,Fuel Oil Dealers,454311,Heating Oil Dealers
+5984,Liquefied Petroleum Gas (Bottled Gas) Dealers,454312,Liquefied Petroleum Gas (Bottled Gas) Dealers
+5989,"Fuel Dealers, NEC",454319,Other Fuel Dealers
+5992,Florists,453110,Florists
+5993,Tobacco Stores and Stands,453991,Tobacco Stores
+5994,News Dealers and Newsstands ,451212,News Dealers and Newsstands
+5995,Optical Goods Stores (optical laboratories grinding lenses to prescription),******,Multiple
+5999,"Miscellaneous Retail Stores, NEC (manufacture of orthopedic devices to prescription in a retail environment)",******,Multiple
+6011,Federal Reserve Banks,521110,Monetary Authorities - Central Bank
+6019,"Central Reserve Depository Institutions, NEC",522298,All Other Nondepository Credit Intermediation
+6021,National Commercial Banks (banking),522***,Multiple
+6022,State Commercial Banks (commercial banking),522***,Multiple
+6029,"Commercial Banks, NEC ",522110,Commercial Banking
+6035,"Savings Institutions, Federally Chartered",522120,Savings Institutions
+6036,"Savings Institutions, Not Federally Chartered",522120,Savings Institutions
+6061,"Credit Unions, Federally Chartered",522130,Credit Unions
+6062,"Credit Unions, Not Federally Chartered",522130,Credit Unions
+6081,Branches and Agencies of Foreign Banks (branches),52229*,Multiple
+6082,Foreign Trade and International Banking Institutions (international trade financing),52****,Multiple
+6091,Nondeposit Trust Facilities ,523991,"Trust, Fiduciary, and Custody Activities"
+6099,"Functions Related to Depository Banking, NEC (electronic funds transfer networks and clearinghouse associations)",52****,Multiple
+6111,Federal and Federally-Sponsored Credit Agencies (trade banks),5222**,Multiple
+6141,Personal Credit Institutions (credit card issuing),5222**,Multiple
+6153,"Short-Term Business Credit Institutions, Except Agricultural (credit card issuing)",52****,Multiple
+6159,Miscellaneous Business Credit Institutions (finance leasing combined with sales financing),52229*,Multiple
+6162,Mortgage Bankers and Loan Correspondents (mortgage bankers and originators),5223**,Multiple
+6163,Loan Brokers,522310,Mortgage and Nonmortgage Loan Brokers
+6211,"Security Brokers, Dealers, and Flotation Companies (security dealers and underwriters)",523***,Multiple
+6221,Commodity Contracts Brokers and Dealers (commodity dealers),523***,Multiple
+6231,Security and Commodity Exchanges,523210,Securities and Commodity Exchanges
+6282,Investment Advice (portfolio managers),5239**,Multiple
+6289,"Services Allied With the Exchange of Securities or Commodities, NEC (security custodians)",52****,Multiple
+6311,Life Insurance (life insurers-direct),5241**,Multiple
+6321,Accident and Health Insurance (disability insurers-direct),52****,Multiple
+6324,Hospital and Medical Service Plans (health and medical insurers-direct),52****,Multiple
+6331,"Fire, Marine, and Casualty Insurance (fire, marine, and casualty insurers-direct, except contact lens insurance)",52****,Multiple
+6351,Surety Insurance (financial responsibility insurers-direct),5241**,Multiple
+6361,Title Insurance (title insurers-direct),52****,Multiple
+6371,"Pension, Health, and Welfare Funds (managers)",52****,Multiple
+6399,"Insurance Carriers, NEC",524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers"
+6411,"Insurance Agents, Brokers, and Service (insurance agents and brokers)",5*****,Multiple
+6512,Operators of Nonresidential Buildings (except stadium and arena owners),******,Multiple
+6513,Operators of Apartment Buildings,531110,Lessors of Residential Buildings and Dwellings
+6514,Operators of Dwellings Other Than Apartment Buildings,531110,Lessors of Residential Buildings and Dwellings
+6515,Operators of Residential Mobile Home Sites,531190,Lessors of Other Real Estate Property
+6517,Lessors of Railroad Property,531190,Lessors of Other Real Estate Property
+6519,"Lessors of Real Property, NEC",531190,Lessors of Other Real Estate Property
+6531,Real Estate Agents and Managers (operating housing authorities),******,Multiple
+6541,Title Abstract Offices,541191,Title Abstract and Settlement Offices
+6552,"Land Subdividers and Developers, Except Cemeteries",237210,Land Subdivision
+6553,Cemetery Subdividers and Developers,812220,Cemeteries and Crematories
+6712,Offices of Bank Holding Companies,551111,Offices of  Bank Holding Companies
+6719,"Offices of Holding Companies, NEC",551112,Offices of  Other Holding Companies
+6722,"Management Investment Offices, Open-End ",525910,Open-End Investment Funds
+6726,"Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices",525990,Other Financial Vehicles
+6732,"Educational, Religious, and Charitable Trusts",813211,Grantmaking Foundations
+6733,"Trusts, Except Educational, Religious, and Charitable (managers)",52****,Multiple
+6792,Oil Royalty Traders (investing on own account),533110,Multiple
+6794,Patent Owners and Lessors,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+6798,Real Estate Investment Trusts,525930,Real Estate Investment Trusts
+6799,"Investors, NEC (commodity contract trading companies)",******,Multiple
+7011,"Hotels and Motels (hotels, except casino hotels, and motels)",721***,Multiple
+7021,Rooming and Boarding Houses,721310,Rooming and Boarding Houses
+7032,Sporting and Recreational Camps,721214,Recreational and Vacation Camps (except Campgrounds)
+7033,Recreational Vehicle Parks and Campsites,721211,RV (Recreational Vehicle) Parks and Campgrounds
+7041,"Organization Hotels and Lodging Houses, on Membership Basis (hotels)",******,Multiple
+7211,"Power Laundries, Family and Commercial",812320,Drycleaning and Laundry Services (except Coin-Operated)
+7212,"Garment Pressing, and Agents for Laundries and Drycleaners",812320,Drycleaning and Laundry Services (except Coin-Operated)
+7213,Linen Supply,812331,Linen Supply
+7215,Coin-Operated Laundry and Drycleaning ,812310,Coin-Operated Laundries and Drycleaners
+7216,"Drycleaning Plants, Except Rug Cleaning",812320,Drycleaning and Laundry Services (except Coin-Operated)
+7217,Carpet and Upholstery Cleaning,561740,Carpet and Upholstery Cleaning Services
+7218,Industrial Launderers,812332,Industrial Launderers
+7219,"Laundry and Garment Services, NEC (alteration and repair)",******,Multiple
+7221,"Photographic Studios, Portrait",541921,"Photography Studios, Portrait"
+7231,Beauty Shops (beauty and cosmetology schools),******,Multiple
+7241,Barber Shops (barber colleges),81****,Multiple
+7251,Shoe Repair Shops and Shoeshine Parlors (shoe repair shops),812***,Multiple
+7261,Funeral Services and Crematories (funeral homes and services),******,Multiple
+7291,Tax Return Preparation Services,541213,Tax Preparation Services
+7299,"Miscellaneous Personal Services, NEC (formal wear and costume rental)",******,Multiple
+7311,Advertising Agencies,541810,Advertising Agencies
+7312,Outdoor Advertising Services,541850,Display Advertising
+7313,"Radio, Television, and Publishers’ Advertising Representatives",541840,Media Representatives
+7319,"Advertising, NEC (using general purpose aircraft for aerial advertising and a variety of other services)",5*****,Multiple
+7322,Adjustment and Collection Services,561440,Collection Agencies
+7323,Credit Reporting Services,561450, Credit Bureaus
+7331,Direct Mail Advertising Services (mailing list compilers),******,Multiple
+7334,Photocopying and Duplicating Services (quick printing),******,Multiple
+7335,Commercial Photography (using general purpose aircraft for aerial photography and a variety of other services),541***,Multiple
+7336,Commercial Art and Graphic Design,541430,Graphic Design Services
+7338,Secretarial and Court Reporting (secretarial services),561***,Multiple
+7342,Disinfecting and Pest Control Services (exterminating and pest control),561720,Multiple
+7349,"Building Cleaning and Maintenance Services, NEC (janitorial services)",5*****,Multiple
+7352,Medical Equipment Rental and Leasing (home health furniture and equipment rental and leasing),******,Multiple
+7353,Heavy Construction Equipment Rental and Leasing (rental of construction equipment [except cranes] with operator),******,Multiple
+7359,"Equipment Rental and Leasing, NEC (appliances; TVs, VCRs, and other consumer electronic equipment rental)",5*****,Multiple
+7361,Employment Agencies (executive placement services),5613**,Multiple
+7363,Help Supply Services (temporary help services),5*****,Multiple
+7371,Computer Programming Services,541511,Custom Computer Programming Services
+7372,Prepackaged Software (mass reproduction of software),5*****,Multiple
+7373,Computer Integrated Systems Design,541512,Computer Systems Design Services
+7374,Computer Processing and Data Preparation and Processing Services,518210,"Data Processing, Hosting, and Related Services "
+7375,Information Retrieval Services (Internet service providers and Internet access providers),518111,Internet Service Providers
+7376,Computer Facilities Management Services,541513,Computer Facilities Management Services
+7377,Computer Rental and Leasing,532420,Office Machinery and Equipment Rental and Leasing
+7378,Computer Maintenance and Repair (sales locations providing supporting repair services as major source of receipts),******,Multiple
+7379,"Computer Related Services, NEC (disk conversion services)",5*****,Multiple
+7381,"Detective, Guard, and Armored Car Services (detective services)",5616**,Multiple
+7382,Security Systems Services,561621,Security Systems Services (except Locksmiths)
+7383,News Syndicates (except independent news correspondents),******,Multiple
+7384,Photofinishing Laboratories (except one-hour),******,Multiple
+7389,"Business Services, NEC (tobacco sheeting service)",******,Multiple
+7513,Truck Rental and Leasing Without Drivers,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+7514,Passenger Car Rental,532111,Passenger Car Rental
+7515,Passenger Car Leasing,532112,Passenger Car Leasing  
+7519,Utility Trailers and Recreational Vehicle Rental,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+7521,Automobile Parking,812930,Parking Lots and Garages
+7532,"Top, Body, and Upholstery Repair Shops and Paint Shops",811121,"Automotive Body, Paint, and Interior Repair and Maintenance "
+7533,Automotive Exhaust System Repair Shops,811112,Automotive Exhaust System Repair
+7534,Tire Retreading and Repair Shops (rebuilding tires and retreaded tire manufacturing),8111**,Multiple
+7536,Automotive Glass Replacement Shops,811122,Automotive Glass Replacement Shops
+7537,Automotive Transmission Repair Shops,811113,Automotive Transmission Repair
+7538,General Automotive Repair Shops,811111,General Automotive Repair
+7539,"Automotive Repair Shops, NEC (except automotive air-conditioning repair)",81119*,Multiple
+7542,Carwashes,811192,Car Washes
+7549,"Automotive Services, Except Repair and Carwashes (towing)",******,Multiple
+7622,Radio and Television Repair Shops (household antenna installation and household-type satellite dish installation),******,Multiple
+7623,Refrigeration and Air-Conditioning Services and Repair Shops (new retail sales combined with repair-repair services as major source of receipts),******,Multiple
+7629,"Electrical and Electronic Repair Shops, NEC (new retail sales combined with repair-repair services as major source of receipts)",******,Multiple
+7631,"Watch, Clock, and Jewelry Repair (new retail sales combined with repair-repair services as major source of receipts)",8114**,Multiple
+7641,Reupholstery and Furniture Repair,811420,Reupholstery and Furniture Repair
+7692,Welding Repair,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+7694,Armature Rewinding Shops (remanufacturing),******,Multiple
+7699,"Repair Shops and Related Services, NEC (farriers)",******,Multiple
+7812,Motion Picture and Video Tape Production,512110,Motion Picture and Video Production
+7819,Services Allied to Motion Picture Production (reproduction of video),******,Multiple
+7822,Motion Picture and Video Tape Distribution (prerecorded video tape and cassette wholesalers),512120,Multiple
+7829,Services Allied to Motion Picture Distribution (commercial distribution film libraries),51****,Multiple
+7832,"Motion Picture Theaters, Except Drive-In",512131,Motion Picture Theaters (except Drive-Ins)
+7833,Drive-In Motion Picture Theaters,512132,Drive-In Motion Picture Theaters
+7841,Video Tape Rental,532230,Video Tape and Disc Rental
+7911,"Dance Studios, Schools, and Halls (dance instructors, and professional and other dance schools)",******,Multiple
+7922,Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services (producers of radio programs),******,Multiple
+7929,"Bands, Orchestras, Actors, and Other Entertainers Entertainment Groups (musical groups, musical artists, and orchestras)",71****,Multiple
+7933,Bowling Centers,713950,Bowling Centers
+7941,Professional Sports Clubs and Promoters (professional sports clubs),711***,Multiple
+7948,"Racing, Including Track Operations (track operations)",71****,Multiple
+7991,Physical Fitness Facilities,713940,Fitness and Recreational Sports Centers
+7992,Public Golf Courses,713910,Golf Courses and Country Clubs
+7993,Coin-Operated Amusement Devices (amusement arcades),713***,Multiple
+7996,Amusement Parks,713110,Amusement and Theme Parks
+7997,Membership Sports and Recreation Clubs (flying clubs primarily providing a variety of flying services to the public using general purpose aircraft),******,Multiple
+7999,"Amusement and Recreation Services, NEC (scenic transport operations, land)",******,Multiple
+8011,"Offices and Clinics of Doctors of Medicine (except mental health specialists, HMO medical centers, and ambulatory surgical and emergency centers)",621***,Multiple
+8021,Offices and Clinics of Dentists,621210,Offices of Dentists
+8031,Offices and Clinics of Doctors of Osteopathy (except mental health specialists) ,621***,Multiple
+8041,Offices and Clinics of Chiropractors,621310,Offices of Chiropractors
+8042,Offices and Clinics of Optometrists,621320,Offices of Optometrists
+8043,Offices and Clinics of Podiatrists,621391,Offices of Podiatrists
+8049,"Offices and Clinics of Health Practitioners, NEC (mental health practitioners except physicians)",62****,Multiple
+8051,Skilled Nursing Care Facilities (except continuing care retirement communities and mental retardation hospitals),623***,Multiple
+8052,Intermediate Care Facilities (except continuing care retirement communities and mental retardation facilities),623***,Multiple
+8059,"Nursing and Personal Care Facilities, NEC (except continuing care retirement communities, psychiatric convalescent homes with health care, and homes for the mentally retarded with health care)",62****,Multiple
+8062,General Medical and Surgical Hospitals,622110,General Medical and Surgical Hospitals
+8063,Psychiatric Hospitals,622210,Psychiatric and Substance Abuse Hospitals
+8069,"Specialty Hospitals, Except Psychiatric (children’s hospitals)",62****,Multiple
+8071,Medical Laboratories (except diagnostic imaging centers),******,Multiple
+8072,Dental Laboratories,339116,Dental Laboratories
+8082,Home Health Care Services,621610,Home Health Care Services
+8092,Kidney Dialysis Centers,621492,Kidney Dialysis Centers
+8093,"Specialty Outpatient Facilities, NEC (respiratory therapy clinics and offices)",******,Multiple
+8099,"Health and Allied Services, NEC (medical artists)",******,Multiple
+8111,Legal Services,541110,Offices of Lawyers 
+8211,Elementary and Secondary Schools,611110,Elementary and Secondary Schools
+8221,"Colleges, Universities, and Professional Schools",611310,"Colleges, Universities, and Professional Schools"
+8222,Junior Colleges and Technical Institutes,611210,Junior Colleges
+8231,Libraries,519120,Libraries and Archives
+8243,Data Processing Schools (except computer repair training),611***,Multiple
+8244,Business and Secretarial Schools,611410,Business and Secretarial Schools
+8249,"Vocational Schools, NEC (aviation schools, excluding flying instruction)",611***,Multiple
+8299,"Schools and Educational Services, NEC (professional and management development training)",6*****,Multiple
+8322,Individual and Family Social Services (child and youth services),******,Multiple
+8331,Job Training and Vocational Rehabilitation Services,624310,Vocational Rehabilitation Services
+8351,Child Day Care Services,624410,Child Day Care Services
+8361,Residential Care (homes for the mentally handicapped with incidental health care),******,Multiple
+8399,"Social Services, NEC (voluntary health organizations)",******,Multiple
+8412,Museums and Art Galleries (except historic and heritage sites),7121**,Multiple
+8422,Arboreta and Botanical or Zoological Gardens (except nature parks and reserves),******,Multiple
+8611,Business Associations,813910,Business Associations
+8621,Professional Membership Organizations,813920,Professional Organizations
+8631,Labor Unions and Similar Labor Organizations,813930,Labor Unions and Similar Labor Organizations
+8641,"Civic, Social, and Fraternal Associations (taxpayers' associations, tenants' advocacy associations, temperance organizations)",******,Multiple
+8651,Political Organizations,813940,Political Organizations
+8661,Religious Organizations,813110,Religious Organizations
+8699,"Membership Organizations, NEC (travel motor clubs)",******,Multiple
+8711,Engineering Services,541330,Engineering Services
+8712,Architectural Services,541310,Architectural  Services
+8713,Surveying Services (geophysical surveying ),541***,Multiple
+8721,"Accounting, Auditing, and Bookkeeping Services (auditing  accountants)",541***,Multiple
+8731,Commercial Physical and Biological Research,541710,"Research and Development in the Physical, Engineering, and Life Sciences"
+8732,"Commercial Economic, Sociological, and Educational Research (social sciences and humanities)",541***,Multiple
+8733,"Noncommercial Research Organizations (physical, engineering, and life sciences)",541***,Multiple
+8734,Testing Laboratories (except veterinary testing laboratories),******,Multiple
+8741,Management Services (single-family housing construction management),******,Multiple
+8742,Management Consulting Services (administrative management and general management consulting),541***,Multiple
+8743,Public Relations Services,541820,Public Relations Agencies
+8744,Facilities Support Management Services,561210,Facilities Support Services
+8748,"Business Consulting Services, NEC (urban planners and industrial development organizations)",******,Multiple
+8811,Private Households,814110,Private Households
+8999,"Services, NEC (record production)",******,Multiple
+9111,Executive Offices,921110,Executive Offices
+9121,Legislative Bodies,921120,Legislative Bodies
+9131,Executive and Legislative Office Combined ,921140,"Executive and Legislative Offices, Combined "
+9199,"General Government, NEC",921190,Other General Government Support
+9211,Courts,922110,Courts
+9221,Police Protection,922120,Police Protection
+9222,Legal Counsel and Prosecution,922130,Legal Counsel and Prosecution
+9223,Correctional Institutions,922140,Correctional Institutions
+9224,Fire Protection,922160,Fire Protection
+9229,"Public Order and Safety, NEC",922190,"All Other Justice, Public Order, and Safety Activities"
+9311,"Public Finance, Taxation, and Monetary Policy",921130,Public Finance Activities
+9411,Administration of Educational Programs,923110,Administration of Education Programs
+9431,Administration of Public Health Programs,923120,Administration of Public Health Programs
+9441,"Administration of Social, Human Resource and Income Maintenance Programs",923130,"Administration of Human Resource Programs (except Education, Public Health, and Veteran’s Affairs Programs)"
+9451,"Administration of Veterans’ Affairs, Except Health and Insurance",923140,Administration of Veteran’s Affairs
+9511,Air and Water Resource and Solid Waste Management,924110,Administration of Air and Water Resource and Solid Waste Management Programs
+9512,"Land, Mineral, Wildlife, and Forest Conservation",924120,Administration of Conservation Programs
+9531,Administration of Housing Programs,925110,Administration of Housing Programs
+9532,Administration of Urban Planning and Community and Rural Development,925120,Administration of Urban Planning and Community and Rural Development
+9611,Administration of General Economic Programs,926110,Administration of General Economic Programs
+9621,Regulation and Administration of Transportation Programs (government air traffic control),9261**,Multiple
+9631,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
+9641,Regulation of Agricultural Marketing and Commodities,926140,Regulation of Agricultural Marketing and Commodities
+9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors"
+9661,Space Research and Technology,927110,Space Research and Technology
+9711,National Security,928110,National Security
+9721,International Affairs,928120,International Affairs
+,These establishments were included as auxiliaries in the 1987 Standard Industrial Classification,551114,"Corporate, Subsidiary, and Regional Managing Offices"
+,Null Set for U.S.,112130,Dual Purpose Cattle Ranching and Farming
+,Null Set for U.S.,541120,Offices of Notaries
+,,,

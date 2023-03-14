@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+numba
+arviz==0.11.0
+scipy
+scikit-learn
+pymc3==3.8
+ipykernel
