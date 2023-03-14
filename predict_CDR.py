@@ -33,7 +33,7 @@ format   = '  %(message)s'
 handlers = [logging.FileHandler('output/predict_CDR.log'), logging.StreamHandler()]
 logging.basicConfig(level = level, format = format, handlers = handlers)
 
-logging.info('\nBeginning load_hurdle_model.py script.\n')
+logging.info('\nBeginning predict_CDR.py script.\n')
 
 # Load data files
 sector_subsector_indexes_df = pd.read_csv('output/hurdle_model_sector_subsector_domain.csv')
@@ -271,5 +271,5 @@ plt.xlabel('Predicted detection probability')
 plt.savefig('output/figures/cdr3.png')
 plt.close()
 
-logging.info('CDR predictions scatterplot saved to: {}'.format(fig6_path))
+logging.info('CDR predictions scatterplot saved to: {}'.format(figS3_path))
 logging.info('\n predict_CDR.py completed')

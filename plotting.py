@@ -91,8 +91,8 @@ logging.info('\nFigure 4 - model predictions by NAICS sector - saved to: {} \n'.
 
 # For fig S2
 figS2_path = 'output/figures/figS2.png'
-plot_substance_predictions(test_p1_samples, test_p2_samples, save_path=fig5_path, min_N=5, sortbyair=True, textout=False)
-logging.info('\nFigure S2 - model predictions by test set substances - saved to: {} \n'.format(fig5_path))
+plot_substance_predictions(test_p1_samples, test_p2_samples, save_path=figS2_path, min_N=5, sortbyair=True, textout=False)
+logging.info('\nFigure S2 - model predictions by test set substances - saved to: {} \n'.format(figS2_path))
 
 
 # For fig S1
